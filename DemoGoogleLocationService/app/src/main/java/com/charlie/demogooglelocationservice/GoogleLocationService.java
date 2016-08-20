@@ -1,3 +1,4 @@
+package com.charlie.demogooglelocationservice;
 
 import android.content.Context;
 import android.content.pm.PackageManager;
