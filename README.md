@@ -13,4 +13,7 @@ Now update the following function as u wish:
 	2.public void onStatusChanged(String provider, int status, Bundle extras)
 	3.public void onProviderEnabled(String provider)
 	4.public void onProviderDisabled(String provider) 
+
+
+******** please put yout google api key in androidmanifest.xml file before testing **********
 	
